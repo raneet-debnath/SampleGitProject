@@ -1,7 +1,9 @@
 Hello World!
 
-Change :-> to implement Login Feature and update some code
+Change :-> To implement Login Feature and update some code
 
-Change :-> to test logout feature
+Change :-> To test logout feature
 
-Change :-> to fix bug1
+Change :-> To fix bug1
+
+Change :-> change by team mate for some new feature
