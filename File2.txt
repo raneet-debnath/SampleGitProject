@@ -1,7 +1,9 @@
-To check rebasing
+1 To check rebasing
 
-change to be stashed
+2 change to be stashed
 
-Change to check push
+3 Change to check push
 
-change by team mate on remote repository
+4 change by team mate on remote repository
+
+5 change to test rebase on remote repo by team mate
