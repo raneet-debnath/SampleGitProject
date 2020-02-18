@@ -1,9 +1,14 @@
 1 To check rebasing
 
+
 2 change to be stashed
+
 
 3 Change to check push
 
+
 4 change by team mate on remote repository
 
-5 change to test rebase on remote repo by team mate
+
+5 Change - to test rebase on my local repo
+
