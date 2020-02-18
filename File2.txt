@@ -3,3 +3,5 @@ To check rebasing
 change to be stashed
 
 Change to check push
+
+change by team mate on remote repository
