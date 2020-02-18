@@ -1,12 +1,13 @@
 Hello World!
 
-Change :-> To implement Login Feature and update some code
+1. Change :-> To implement Login Feature and update some code
 
-Change :-> To test logout feature
+2. Change :-> To test logout feature
 
-Change :-> To test 3 way merging
+3. Change :-> To test 3 way merging
 
-Change :-> To fix bug1
+4. Change :-> To fix bug1
 
-Change :-> To fix bug2
+5. Change :-> To fix bug2
 
+6. Change :-> To check rebase hence this change is from team mate
