@@ -4,6 +4,9 @@ Change :-> To implement Login Feature and update some code
 
 Change :-> To test logout feature
 
+Change :-> To test 3 way merging
+
 Change :-> To fix bug1
 
-Change :-> change by team mate for some new feature
+Change :-> To fix bug2
+
